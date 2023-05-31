@@ -23,6 +23,8 @@ username: airflow
 password: airflow
 ```
 
+# Full documentation
+https://github.com/apache/airflow-client-python/blob/main/dev/test_python_client.py
 
 <!--
  Licensed to the Apache Software Foundation (ASF) under one
