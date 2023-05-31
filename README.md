@@ -23,6 +23,9 @@ username: airflow
 password: airflow
 ```
 
+# API CALL WEBSITE SIMPLIFIED
+https://brocktibert.com/post/trigger-airflow-dags-via-the-rest-api/
+
 # Full documentation
 https://github.com/apache/airflow-client-python/blob/main/dev/test_python_client.py
 
