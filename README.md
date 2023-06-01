@@ -1,10 +1,16 @@
-Para rodar ele:
+# INSTALANDO CONECTOR PARA A AWS
+Rodar o comando bash
+```bash
+pip install 'apache-airflow[amazon]'
+```
+
+# EXECUTAR O AIRFLOW
 
 - coloque a seguinte configuração no .env
 AIRFLOW_UID=50000
 
 - rode o comando do docker-compose:
-docker-compose up airflow_init
+docker-compose up airflow-init
 docker-compose up
 
 - Permitir que ele rode via api
